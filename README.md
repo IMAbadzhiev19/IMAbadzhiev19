@@ -3,10 +3,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%23F7630C&size=30&duration=3500&center=true&lines=Hello!;My+name+is+Ivaylo.;Welcome+to+my+profile.">
 </h1>
 
-  <p align="center"> 
-    <img src = "https://user-images.githubusercontent.com/63718754/154519427-26b98fed-f6bb-4760-ac11-2e2eb3758442.gif" alt = "animated" /> 
-  </p>
-
  <h1 align="center"> 💪 Activity 💪 </h1>
   <p align="center">
     <a href="https://git.io/streak-stats">
