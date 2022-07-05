@@ -6,14 +6,14 @@
  <h1 align="center">  Activity  </h1>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=IMAbadzhiev19&theme=radical">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=IMAbadzhiev19&theme=anuraghazra">
     </a>
    </p>
   
 <h1 align="center">  Stats  </h1>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=radical&show_icons=true" height="180">
+      <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=anuraghazra&show_icons=true" height="180">
     </a>
    </p>
    
