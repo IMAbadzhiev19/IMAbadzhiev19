@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" alt="animated" width = 500 />
 </p>
+  
+  <br/><br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ivaylo-abadzhiev-8aa33722a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
@@ -24,4 +26,9 @@
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+  <br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&count_private=true&&show_icons=true&theme=gruvbox">
 </p>
