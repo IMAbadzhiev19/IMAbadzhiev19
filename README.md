@@ -24,6 +24,8 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&count_private=true&&show_icons=true&theme=gruvbox" align="left" height="170px" width = "410px">
+<br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&count_private=true&&show_icons=true&theme=gruvbox" align="left" height="170px" width = "390px">
   
   <img src="https://streak-stats.demolab.com?user=IMAbadzhiev19&theme=gruvbox" align="right" height="170px" width = "410px">
