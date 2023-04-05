@@ -24,4 +24,4 @@
 </p>
   
 <br/><br/>  
-  <img src="https://streak-stats.demolab.com?user=IMAbadzhiev19&theme=gruvbox" align="right" height="170px" width = "410px">
+  <img src="https://streak-stats.demolab.com?user=IMAbadzhiev19&theme=gruvbox" align="centre" height="170px" width = "410px">
