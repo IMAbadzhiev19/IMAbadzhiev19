@@ -31,6 +31,3 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
-  
-<br/><br/>  
-  <img src="https://streak-stats.demolab.com?user=IMAbadzhiev19&theme=gruvbox" align="center" height="170px" width = "410px">
