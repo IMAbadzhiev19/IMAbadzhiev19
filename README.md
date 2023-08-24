@@ -32,9 +32,3 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
-
--------------------------
-# <p align="center">📊 GitHub Stats:</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="430px" height="470px">
-</div>
