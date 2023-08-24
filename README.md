@@ -35,5 +35,6 @@
 
 -------------------------
 # <p align="center">📊 GitHub Stats:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="430px" height="470px" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMAbadzhiev19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="450px" height="370px" align="right"> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="430px" height="470px">
+</div>
