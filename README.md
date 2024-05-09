@@ -9,9 +9,6 @@
     <a href="https://www.linkedin.com/in/ivaylo-abadzhiev-8aa33722a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p>
 
-<br>
-<br>
-
 # ⚙️ Technologies:
 <p align="left">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
@@ -39,5 +36,7 @@
 <br>
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=IMAbadzhiev19&theme=blueberry&hide_border=true)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMAbadzhiev19&theme=blueberry&hide_border=true" alt="GitHub Streak">
+</div>
