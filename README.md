@@ -2,12 +2,20 @@
   <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&duration=3500&center=true&lines=Hello;My+name+is+Ivaylo.;Web+Developer.;Welcome+to+my+profile">
 </h1>
-  
-  <br/>
- 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ivaylo-abadzhiev-8aa33722a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p>
+
+```py
+user = {
+  "name": "Ivaylo Abadzhiev",
+  "age": "19",
+  "hobbies": ["coding", "working out", "reading", "traveling"],
+  "description": (
+      "A web developer (mainly doing Full-Stack Development with an emphasis on Backend Development)."
+      "Experienced in Python (Django, SQLAlchemy, PostgreSQL).",
+      "Experienced in .NET Ecosystem (ASP.NET, EFCore, SQLServer, Azure)",
+      "Also having some familiarity with React and Typescript."
+  ),
+}
+```
 
 # ⚙️ Technologies:
 <p align="left">
@@ -36,5 +44,8 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<br>
+<hr/>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/ivaylo-abadzhiev-8aa33722a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+</p>
