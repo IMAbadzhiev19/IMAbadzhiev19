@@ -33,14 +33,4 @@
 </p>
 
 <br>
-  
-# 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="flex: 1; margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=IMAbadzhiev19&theme=blueberry&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 420px;">
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMAbadzhiev19&theme=blueberry&hide_border=true" alt="GitHub Streak" style="width: 420px;">
-    </div>
-</div>
 
