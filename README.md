@@ -13,7 +13,6 @@ user = {
   "description": (
       "A web developer (mainly doing Full-Stack Development with an emphasis on Backend Development)."
       "Experienced in .NET Ecosystem (ASP.NET, EFCore, SQLServer, Azure)",
-      "Experienced in Python (Django, SQLAlchemy, PostgreSQL).",
       "Also having some familiarity with React and Typescript."
   ),
 }
