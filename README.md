@@ -5,19 +5,6 @@
 
 <br>
 
-```py
-user = {
-  "name": "Ivaylo Abadzhiev",
-  "age": "19",
-  "hobbies": ["coding", "working out", "reading", "traveling"],
-  "description": (
-      "A web developer (mainly doing Full-Stack Development with an emphasis on Backend Development)."
-      "Experienced in .NET Ecosystem (ASP.NET, EFCore, SQLServer, Azure)",
-      "Also having some familiarity with React and Typescript."
-  ),
-}
-```
-
 <br>
 
 <p align="center">
